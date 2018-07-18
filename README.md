@@ -1,2 +1,3 @@
 # test
-test-bed
+
+This is a test-bed for you to learn Github.
